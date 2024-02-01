@@ -13,8 +13,8 @@ curretTime: 60,
 
 },
 actions: {
-timerId: setInterval(randomSquare, 1000),
-countDownTimerId: setInterval(countDown, 1000),
+timerId: setInterval(randomSquare, 800),
+countDownTimerId: setInterval(countDown, 800),
 
 }
 
